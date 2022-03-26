@@ -1,0 +1,5 @@
+old/
+viz_images/
+tmp/
+*.json_bertimbau-base_bert-crf_total_512_128
+.DS_Store
