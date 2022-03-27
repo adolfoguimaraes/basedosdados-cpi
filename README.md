@@ -11,12 +11,11 @@ Foram utilizadas técnicas de Processamento de Linguagem Natural para extração
 Foram gerados os seguintes arquivos: 
 
 
-`output/ner_files/`: pasta dos arquivos com as entidades extraídas de cada fala dos depoentes e convidados. Cada arquivo corresponde a um depoente/convidado de um dia da CPI. 
-`output/corpus_tfid.json`: arquivo com TF-IDF de cada termo/documento.
-`outupt/todas_entidades_nomeadas_por_data.json`: arquivo com as entidades nomeadas para cada dia de CPI.
-`output/todas_entidades_nomeadas.json`: arquivo com as entidades nomeadas de todos os dias. 
-`output/vocabulary_full.json`: vocabulário de toda a base com informações da frequência do termo, quantidade e lista de documentos que o termo aparece.
-
+* `output/ner_files/`: pasta dos arquivos com as entidades extraídas de cada fala dos depoentes e convidados. Cada arquivo corresponde a um depoente/convidado de um dia da CPI. 
+* `output/corpus_tfid.json`: arquivo com TF-IDF de cada termo/documento.
+* `outupt/todas_entidades_nomeadas_por_data.json`: arquivo com as entidades nomeadas para cada dia de CPI.
+* `output/todas_entidades_nomeadas.json`: arquivo com as entidades nomeadas de todos os dias. 
+* `output/vocabulary_full.json`: vocabulário de toda a base com informações da frequência do termo, quantidade e lista de documentos que o termo aparece.
 
 
 
